@@ -113,7 +113,7 @@ API for current cases, statewise, districtwise and historical data of India COVI
 - [Bihar COVID-19 Dashboard/Tracker](https://coronainbihar.github.io/) (by [@anandv01](https://github.com/anandv01))
 - [COVID19 Tracker/Predictor](https://track-covid-19ind.herokuapp.com/) (by [@manoj](https://github.com/ManojNallusamy))
 - [COVID-19 Tracker App](https://corona-india.live/) (by [@sandeshchoudhary](https://github.com/sandeshchoudhary))
-- [Corona Virus Tracker](https://virtuosars.github.io/CovidLive/) (by [@VirtuosArs](https://github.com/VirtuosArs))
+- [Corona Virus Tracker](https://virtuosars.github.io/CovidLive) (by [@VirtuosArs](https://github.com/VirtuosArs))
 
 
 **Telegram Bots**
